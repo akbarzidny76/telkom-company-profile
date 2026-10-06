@@ -1,0 +1,3 @@
+Repository latihan Git pertama saya.
+
+
