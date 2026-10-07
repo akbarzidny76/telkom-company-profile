@@ -16,7 +16,11 @@ $currentPage = basename($_SERVER['PHP_SELF']);
         <a class="brand" href="index.php">
             <span class="brand-mark">TU</span>
             <span>
+ 
                 <strong>Tel-U</strong>
+
+                <strong>Telkom University Purwokerto</strong>
+
                 <small>Simulasi Company Profile</small>
             </span>
         </a>
